@@ -9,7 +9,7 @@
     "start": "webpack-dev-server --output-public-path=/build/",
     "json-server": "json-server --watch api/db.json"
   },
-  "author": "Brad Traversy",
+  "author": "Azubike Enu",
   "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.26.0",
